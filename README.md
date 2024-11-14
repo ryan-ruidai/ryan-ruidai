@@ -42,8 +42,8 @@ I am a passionate Data Engineer with a focus on Cloud Data Management, holding a
 
 ## Connect
 
--[LinkedIn](www.linkedin.com/in/ryan-rui-dai) 
--[Personal Website](URL_TO_WEBSITE_IF_ANY)
+-[LinkedIn] www.linkedin.com/in/ryan-rui-dai
+-[Personal Website]
 
 ## Contributions
 
