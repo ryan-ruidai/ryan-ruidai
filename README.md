@@ -22,9 +22,9 @@ I am a passionate Data Engineer with a focus on Cloud Data Management, holding a
 
 ## Certifications
 
-- **Microsoft Certified: Azure Data Fundamentals (DP-900): **
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)**
 - **Microsoft Certified: Azure Data Engineer Associate (DP-203)** Link https://learn.microsoft.com/en-us/users/ruidai-8296/credentials/43efabf3a42b221d
-- **WES Credential Evaluation Report - Bachelor's degree Credential ID 6462440IMM **
+- **WES Credential Evaluation Report - Bachelor's degree Credential ID 6462440IMM**
 
 ## Skills
 
@@ -39,11 +39,10 @@ I am a passionate Data Engineer with a focus on Cloud Data Management, holding a
 
 ## Projects
 
-[Here, you should list or link to your repositories that demonstrate your skills. Pin repositories that best showcase your work.]
 
 ## Connect
 
--[LinkedIn](URL_TO_LINKEDIN) 
+-[LinkedIn](www.linkedin.com/in/ryan-rui-dai) 
 -[Personal Website](URL_TO_WEBSITE_IF_ANY)
 
 ## Contributions
